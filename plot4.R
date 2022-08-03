@@ -1,5 +1,5 @@
 # Setting up releveant data directory in to system;
-  Power_data <- setwd("C:/Users/sk_mi/Desktop/Coursera/Exploratory Data Analysis/Week 1")
+  Power_ data <- setwd("C:/Users/Coursera_C4/Exploratory_Data_Analysis/Week_1")
 
 # Now we will read relevan data;
   Power_data <- read.table("household_power_consumption.txt", sep = ";", skip = 66637, nrows = 2880)
